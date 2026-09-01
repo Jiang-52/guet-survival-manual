@@ -1,6 +1,10 @@
 # 本地下载缓存，非正式正文
 _sources/
 
+# 导出中间文件
+_export_pdf.py
+Jiapei_Jiang_*.html
+
 # OS / editor
 .DS_Store
 Thumbs.db
